@@ -16,7 +16,7 @@ JARVIS is a feature-rich AI assistant with a sleek GUI, built using Python! It c
 
 ## 🛠 Technologies Used  
 - **Python** for core functionality  
-- **[Your GUI Library]** for the user interface  
+- **Tkinter** for the user interface  
 
 ## 🚀 How to Run  
 1. Clone the repository:  
