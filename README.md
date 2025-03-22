@@ -21,4 +21,4 @@ JARVIS is a feature-rich AI assistant with a sleek GUI, built using Python! It c
 ## 🚀 How to Run  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/anurag5080/jarvis-assistant.git
+   git clone https://github.com/Anurag5080/jarvis.git
